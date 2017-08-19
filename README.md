@@ -2,6 +2,6 @@
 <h2>在PC上通过按钮控制</h2>
 <h2>在移动端通过陀螺仪控制</h2>
 <h2>有兴趣的话clone下来试试吧~</h2>
-<h2>this is a snake game</h2>
-<h3>you can see it in pc and moblie</h3>
-<h3>website is </h3>
+<p>this is a snake game</p>
+<p>you can see it in pc and moblie</p>
+<p>website : https://chenyanfei-m.github.io/snake/</p>

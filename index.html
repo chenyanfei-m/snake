@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport">
+    <title>demo</title>
+    <link rel="stylesheet" href="Snake.css">
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <script src="script/jquery.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <audio id="eat" src="audio/eat.mp3"></audio>
+    <audio id="die" src="audio/die.mp3"></audio>
+    <audio id="music" src="audio/music.mp3"></audio>
+
+    <div id="main"></div>
+    <div id="header">请按W,S,A,D任意键开始<br>按QE可调整难度</div>
+    <div id="difficulty">难度: ★ ☆ ☆ ☆ ☆</div>
+    <div id="center">Game over
+        <p>按空格重新开始游戏</p>
+    </div>
+    <div id="score">分数: 0</div>
+    <a id="tmall" href="tmall/天猫.html"></a>
+    <script>
+        document.documentElement.style.fontSize = document.documentElement.clientWidth / 640 * 40 + "px";
+    </script>
+    <script src="Snake.js"></script>
+</body>
+
+</html>

@@ -1,5 +1,7 @@
 <h3>这是一个可以在PC和移动端运行的小小贪吃蛇项目~</h3>
+</br>
 <p>大三时写的小玩意</p>
+</br>
 <p>在PC上通过按钮控制</p>
 <p>在移动端通过陀螺仪控制</p>
 <p>地址 : https://chenyanfei-m.github.io/snake/</p>

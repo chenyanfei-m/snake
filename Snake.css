@@ -79,7 +79,7 @@ body {
     font-size: 20px;
     color: #fff;
     position: absolute;
-    bottom: 600px;
+    top: 50px;
     display: none;
     left: 50%;
     margin-left: -31px;
